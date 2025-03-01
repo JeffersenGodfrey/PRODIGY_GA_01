@@ -1,2 +1,2 @@
-# PRODIGY_GA_01
+# Text generation 
 GPT2 text generation model
